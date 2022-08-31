@@ -11,6 +11,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 40px;
 }
 
 #exampleFormControlTextarea1 {
@@ -37,7 +38,7 @@ form {
   align-items: center;
   height: 150px;
   font-size: 20px;
-  padding: 0  !important;
+  padding: 0 !important;
 }
 
 .first-color {
@@ -54,8 +55,4 @@ form {
 
 .fourth-color {
   background-color: rgb(165, 60, 213);
-}
-
-.contactme {
-  margin-bottom: 40px;
 }
