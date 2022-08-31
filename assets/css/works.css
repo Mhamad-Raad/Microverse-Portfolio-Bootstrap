@@ -1,8 +1,62 @@
 .card {
-  width: 20%;
+  /* max-width: 20% !important; */
 }
 
 .works {
-  margin-top: 10rem;
   width: 100%;
+}
+
+.mt {
+  margin-top: 10rem;
+}
+
+.contactme {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#exampleFormControlTextarea1 {
+  max-height: 200px;
+  min-height: 150px;
+}
+
+form {
+  width: 40% !important;
+}
+
+.row {
+  margin: 0 !important;
+  
+}
+
+.header2 {
+  margin-bottom: 2rem;
+  margin-left: 10px;
+}
+
+.colors {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  font-size: 20px;
+  padding: 0  !important;
+}
+
+.first-color {
+  background-color: rgb(119, 72, 158);
+}
+
+.second-color {
+  background-color: rgb(64, 174, 201);
+}
+
+.third-color {
+  background-color: rgb(209, 200, 78);
+}
+
+.fourth-color {
+  background-color: rgb(165, 60, 213);
 }
