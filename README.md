@@ -2,7 +2,7 @@
 
 # WEbsite Portfolio using Bootstrap
 
-> Description the project.
+> In this project we will be creating the same portfolio we have made for microverse which you can checkout in microverse-portfolio repo, but in Bootstrap.
 
 
 ## Built With
